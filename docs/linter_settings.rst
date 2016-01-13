@@ -136,6 +136,7 @@ Now let’s suppose you only want the ``ignore_match`` to apply to ``.inc`` file
                 "missing <!DOCTYPE> declaration",
                 "inserting (?:implicit <body>|missing 'title' element)"
             ]
+        }
     }
 
 In :ref:`debug mode <debug-mode>`, |sl| logs each occurrence of an ignore match.
